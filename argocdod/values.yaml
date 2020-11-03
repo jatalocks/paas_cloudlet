@@ -5,6 +5,6 @@ spec:
   source:
     repoURL: https://github.com/jatalocks/paas_cloudlet
     targetRevision: HEAD
-  project: argocdod
+  project: default
   
 argocdNamespace: argocd
